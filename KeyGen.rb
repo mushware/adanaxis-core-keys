@@ -123,6 +123,13 @@ EOS
 
       file << <<EOS
   }
+  
+  def self.Lookup(inKeyNum)
+    unless @@c_keys.has_key?(inKeyNum)
+      raise RuntimeError, "Key number \#{inKeyNum} not present"
+    end
+    @@c_keys[inKeyNum]
+  end
 end
 EOS
     end
