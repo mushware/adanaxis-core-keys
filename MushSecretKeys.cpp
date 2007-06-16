@@ -4,8 +4,10 @@
  *
  * Copyright: Andy Southgate 2006
  *
- * All rights reserved.  Distribution prohibited.  For information, please
- * contact the author via http://www.mushware.com/.
+ * All rights reserved.  Distribution of this source file or the data
+ * contained within it is prohibited unless expressly permitted by Mushware
+ * Limited.  For information, please contact the author via
+ * http://www.mushware.com/.
  *
  * This software carries NO WARRANTY of any kind.
  *
